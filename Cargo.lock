@@ -1655,6 +1655,13 @@ dependencies = [
 ]
 
 [[package]]
+name = "test0"
+version = "0.0.0"
+dependencies = [
+ "vulkano",
+]
+
+[[package]]
 name = "texture-array"
 version = "0.0.0"
 dependencies = [
